@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="userTxt" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">282dp</item>
+        <item name="android:layout_height">142dp</item>
+        <item name="android:autofillHints">Ask Yoda Your Question</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:inputType">textMultiLine</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:maxLength">48</item>
+    </style>
+
+    <style name="yodaTxt" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">282dp</item>
+        <item name="android:layout_height">142dp</item>
+        <item name="android:layout_marginBottom">52dp</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="forceBtn" parent="TextAppearance.AppCompat">
+        <item name="android:layout_height">85dp</item>
+        <item name="android:layout_width">216dp</item>
+        <item name="android:layout_marginBottom">348dp</item>
+        <item name="android:backgroundTint">@color/button</item>
+        <item name="android:layout_marginTop">345dp</item>
+        <item name="android:layout_marginStart">288dp</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:text">Let the Force Run</item>
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>
