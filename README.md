@@ -4,7 +4,7 @@
 - Instead you can download my project and run it through Android Studio
 ## 
 
-<img width="200" alt="Screenshot 2023-03-16 at 7 42 03 PM" src="https://user-images.githubusercontent.com/75393933/228706192-119793b0-4555-4f5d-a5bc-637efd089a81.png">
+<img width="200" alt="Screenshot 2023-03-16 at 7 42 03 PM" src="https://github.com/SparrMatthew/Yoda-Text-App/blob/main/Yoda.png">
 
 ##
 ## Assignment guidlines
